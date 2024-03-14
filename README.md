@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![](Bottom_up.svg)
 
 <!--   GitHub stats graph -->
@@ -7,6 +7,9 @@
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <!--
 **nicaprio7/nicaprio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
