@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到;芜的欣的主场!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ![](Bottom_up.svg)
 
@@ -6,9 +9,7 @@
 ![Nicaprio's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到;芜的欣的主场!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+
 
 <!--
 **nicaprio7/nicaprio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
