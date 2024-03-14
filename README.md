@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](Bottom_up.svg)
 <!--
 **nicaprio7/nicaprio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
